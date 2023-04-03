@@ -12,11 +12,13 @@
     "@tiptap/starter-kit": "latest",
     "@tiptap/vue-2": "latest",
     "@vue/cli-plugin-babel": "4.1.1",
+    "sass": "^1.60.0",
+    "sass-loader": "^10",
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@tiptap/vue-2": "latest",
     "@tiptap/pm": "latest",
+    "@tiptap/vue-2": "latest",
     "@vue/cli-plugin-eslint": "4.1.1",
     "@vue/cli-service": "4.1.1",
     "babel-eslint": "^10.0.3",
